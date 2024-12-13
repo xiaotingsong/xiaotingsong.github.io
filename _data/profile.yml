@@ -5,7 +5,8 @@ navbar_name: "Tingsong Xiao"
 positions:
 - logo: /assets/images/badges/UFlogo.png  # Logo is optional
   name: University of Florida
-- name: Position 2 without logo
+- logo: /assets/images/badges/UESTC.png
+  name: University of Electronic Science and Technology of China
 
 
 email: "your@email.com"
