@@ -51,9 +51,9 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: ACM SIGSPATIAL Best Paper Award
+- name: <a href="https://sigspatial2023.sigspatial.org/awards/" target="_blank">ACM SIGSPATIAL Best Paper Award</a>
   date: 2023
-- name: Gartner Group Graduate Fellowship
+- name: <a href="https://www.uff.ufl.edu/giving-opportunities/008073-gartner-group-graduate-fellowship//" target="_blank">Gartner Group Graduate Fellowship</a>
   date: 2023
 - name: <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank">MICCAI Student Travel Award</a>
   date: 2022
