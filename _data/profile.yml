@@ -5,9 +5,6 @@ navbar_name: "Tingsong Xiao"
 positions:
 - logo: /assets/images/badges/UFlogo.png  # Logo is optional
   name: University of Florida
-- logo: /assets/images/badges/UESTC.png
-  name: University of Electronic Science and Technology of China
-
 
 email: "Xtstars1998@gmail.com"
 # cv_link: link-to-your-cv-file
@@ -36,16 +33,16 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of Florida
+  logo: /assets/images/badges/UFlogo.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Computer & Information Science & Engineering <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+  date: Sep. 2022 - present
+- name: University of Electronic Science and Technology of China
+  logo: /assets/images/badges/UESTC.png
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
