@@ -54,9 +54,31 @@ awards:
   date: 2022
 
 service_pc:
-- name: XXX Conference Reviewer
-- name: XXX Conference Area Chair
-  # date: 2024
+- name: Conference on Neural Information Processing Systems (NeurIPS)
+  date: 2023, 2024
+- name: International Conference on Learning Representations (ICLR)
+  date: 2022, 2023, 2024, 2025
+- name: International Conference on Machine Learning (ICML)
+  date: 2024, 2025
+- name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+  date: 2024, 2025
+- name: Association for the Advancement of Artificial Intelligence (AAAI)
+  date: 2024, 2025
+- name: American Medical Informatics Association Annual Symposium (AMIA)
+  date: 2024, 2025
+- name: International Conference on Artificial Intelligence and Statistics (AISTATS)
+  date: 2025
+- name: International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  date: 2025
+- name: International Conference on Intelligent Systems for Molecular Biology (ISMB) 
+  date: 2024
+- name: IEEE International Symposium on Biomedical Imaging (ISBI)
+  date: 2023
+- name: IEEE International Conference on Data Mining (ICDM)
+  date: 2023
+- name: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+  date: 2022
+
 
 service_journal:
 - name: ACM Transactions on Intelligent Systems and Technology (TIST)
@@ -65,7 +87,9 @@ service_journal:
 - name: IEEE Transactions on Image Processing (TIP)
 - name: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - name: IEEE Transactions on Computational Social Systems (TCSS)
+- name: IEEE Transactions on Multimedia (TMM)
 - name: Information Processing & Management (IP&M)
+- name: Communications of the ACM (CACM)
 - name: Future Generation Computer Systems
 - name: Information Sciences
 - name: Neural Networks
