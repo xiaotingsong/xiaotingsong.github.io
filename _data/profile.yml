@@ -4,7 +4,7 @@ navbar_name: "Tingsong Xiao"
 
 positions:
 - logo: /assets/images/badges/UFlogo.png  # Logo is optional
-  name: University of Florida, Looking for *Summer Intern 2025*.
+  name: University of Florida, Looking for <strong>Summer Intern 2025</strong>.
 
 email: "XTSTARS1998@gmail.com"
 # cv_link: link-to-your-cv-file
