@@ -59,5 +59,15 @@ service_pc:
   # date: 2024
 
 service_journal:
-- name: XXX Conference Reviewer
-- name: XXX Conference Area Chair
+- name: ACM Transactions on Intelligent Systems and Technology (TIST)
+- name: IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- name: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- name: IEEE Transactions on Image Processing (TIP)
+- name: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- name: IEEE Transactions on Computational Social Systems (TCSS)
+- name: Information Processing & Management (IP&M)
+- name: Future Generation Computer Systems
+- name: Information Sciences
+- name: Neural Networks
+- name: Neural Processing Letters
+- name: Pattern Recognition Letters
