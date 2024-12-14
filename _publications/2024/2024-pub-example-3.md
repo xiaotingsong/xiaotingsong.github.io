@@ -10,7 +10,7 @@ pub:            "39th Annual AAAI Conference on Artificial Intelligence (AAAI 20
 
 abstract: >-
   Modeling irregularly timed clinical events from EHRs is challenging due to time irregularity, cyclical patterns, and multi-scale event interactions. We propose XTSFormer, a transformer-based model with cycle-aware time encoding and multi-scale attention to address these challenges.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/AAAI25.jpg
 authors:
   - <strong>Tingsong Xiao</strong>
   - Zelin Xu
