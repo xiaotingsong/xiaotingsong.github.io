@@ -18,6 +18,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Build settings
 markdown: kramdown
 
+title: "Tingsong Xiao: Homepage"
+description: "PhD Candidate in Computer Science, University of Florida. Specializing in AI for Health, data mining, and interpretable deep learning."
+
 favicon: /assets/images/photos/XTS.jpeg
 
 plugins:
