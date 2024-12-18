@@ -70,6 +70,8 @@ service_pc:
   date: 2025
 - name: International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   date: 2025
+- name: International Joint Conference on Neural Networks (IJCNN)
+  date: 2025
 - name: International Conference on Intelligent Systems for Molecular Biology (ISMB) 
   date: 2024
 - name: IEEE International Symposium on Biomedical Imaging (ISBI)
