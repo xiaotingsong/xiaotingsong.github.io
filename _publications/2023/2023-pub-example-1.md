@@ -1,17 +1,18 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
+title:          "Dual-Graph Learning Convolutional Networks for Interpretable Alzheimer’s Disease Diagnosis"
 date:           2022-01-05 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "Medical Image Computing and Computer Assisted Intervention (MICCAI)"
 pub_date:       "2022"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+  This paper proposes a dual-graph learning convolutional network (dGLCN) for interpretable Alzheimer’s disease diagnosis by jointly learning subject and feature graphs within a GCN framework. By iteratively updating these graphs, dGLCN enhances interpretability in both subjects and brain regions while improving generalizability despite limited or noisy data. Experiments on ADNI datasets demonstrate that dGLCN outperforms comparison methods in binary classification tasks.
+cover:          /assets/images/covers/MICCAI22.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- <strong>Tingsong Xiao</strong>
+- Lu Zeng
+- Xaoshuang Shi
+- Xiaofeng Zhu
+- Guorong Wu 
 links:
-  Paper: https://www.cell.com
+  Paper: https://link.springer.com/chapter/10.1007/978-3-031-16452-1_39
 ---
