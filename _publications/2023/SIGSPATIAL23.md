@@ -5,7 +5,7 @@ selected:       true
 pub:            "The 31st ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2023)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Best Paper Award</span>'
 # pub_date:       "2025"
 
 abstract: >-
