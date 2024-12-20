@@ -15,7 +15,7 @@ authors:
   - Jing Hu
   - Xincheng Wang
   - Ziheng Liao
-  - Tingsong Xiao#
+  - <strong>Tingsong Xiao</strong>#
  
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10219655
