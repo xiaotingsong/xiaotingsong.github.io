@@ -2,7 +2,7 @@
 title:          "Spatial-Logic-Aware Weakly Supervised Learning for Flood Mapping on Earth Imagery"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)"
+pub:            "The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
