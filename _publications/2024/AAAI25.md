@@ -25,5 +25,5 @@ authors:
   - Zhe Jiang
 links:
   Code: https://github.com/xiaotingsong/XTSFormer
-  Paper: https://github.com/xiaotingsong/XTSFormer
+  Paper: https://arxiv.org/abs/2402.02258
 ---
