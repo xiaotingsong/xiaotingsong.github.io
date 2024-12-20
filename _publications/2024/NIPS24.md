@@ -2,7 +2,7 @@
 title:          "A Hierarchical Spatial Transformer for Massive Point Samples in Continuous Space"
 date:           2023-12-12 00:01:00 +0800
 selected:       true
-pub:            "the 37th Annual Conference on Neural Information Processing Systems (NeurIPS 2023)"
+pub:            "The 37th Annual Conference on Neural Information Processing Systems (NeurIPS 2023)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
