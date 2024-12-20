@@ -10,7 +10,7 @@ pub:            "38th Annual AAAI Conference on Artificial Intelligence (AAAI 20
 
 abstract: >-
   This work addresses the challenge of flood mapping on high-resolution Earth imagery with coarse, noisy labels by proposing a spatial-logic-aware weakly supervised learning framework. The framework integrates symbolic spatial logic inference with probabilistic learning and introduces a multi-resolution spatial reasoning algorithm to handle high-resolution imagery efficiently. Experiments on real-world flood datasets demonstrate superior prediction accuracy compared to traditional and neural-symbolic baselines.
-cover:          /assets/images/covers/AAAI25.jpg
+cover:          /assets/images/covers/AAAI24.jpg
 authors:
   - Zelin Xu
   - <strong>Tingsong Xiao</strong>
