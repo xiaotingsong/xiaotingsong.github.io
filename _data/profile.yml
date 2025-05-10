@@ -53,13 +53,13 @@ awards:
 - name: <a href="https://sigspatial2023.sigspatial.org/awards/" target="_blank">ACM SIGSPATIAL Best Paper Award</a>
   date: 2023
 - name: <a href="https://www.uff.ufl.edu/giving-opportunities/008073-gartner-group-graduate-fellowship//" target="_blank">Gartner Group Graduate Fellowship</a>
-  date: 2023
+  date: 2023, 2025
 - name: <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank">MICCAI Student Travel Award</a>
   date: 2022
 
 service_pc:
 - name: Conference on Neural Information Processing Systems (NeurIPS)
-  date: 2023, 2024
+  date: 2023, 2024, 2025
 - name: International Conference on Learning Representations (ICLR)
   date: 2022, 2023, 2024, 2025
 - name: International Conference on Machine Learning (ICML)
@@ -75,6 +75,8 @@ service_pc:
 - name: International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   date: 2025
 - name: International Joint Conference on Neural Networks (IJCNN)
+  date: 2025
+- name: European Conference on Artificial Intelligence (ECAI)
   date: 2025
 - name: International Conference on Intelligent Systems for Molecular Biology (ISMB) 
   date: 2024
@@ -96,6 +98,7 @@ service_journal:
 - name: IEEE Transactions on Multimedia (TMM)
 - name: Information Processing & Management (IP&M)
 - name: Communications of the ACM (CACM)
+- name: Journal of the International Measurement Confederation
 - name: Future Generation Computer Systems
 - name: Information Sciences
 - name: Neural Networks
