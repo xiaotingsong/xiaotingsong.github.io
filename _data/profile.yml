@@ -98,6 +98,7 @@ service_journal:
 - name: IEEE Transactions on Multimedia (TMM)
 - name: Information Processing & Management (IP&M)
 - name: Communications of the ACM (CACM)
+- name: Journal of Medical Internet Research (JMIR)
 - name: Journal of the International Measurement Confederation
 - name: Future Generation Computer Systems
 - name: Information Sciences
