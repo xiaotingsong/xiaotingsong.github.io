@@ -58,6 +58,8 @@ awards:
   date: 2022
 
 service_pc:
+- name: Association for the Advancement of Artificial Intelligence (AAAI)
+  date: 2024, 2025, 2026
 - name: Conference on Neural Information Processing Systems (NeurIPS)
   date: 2023, 2024, 2025
 - name: International Conference on Learning Representations (ICLR)
@@ -65,8 +67,6 @@ service_pc:
 - name: International Conference on Machine Learning (ICML)
   date: 2024, 2025
 - name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
-  date: 2024, 2025
-- name: Association for the Advancement of Artificial Intelligence (AAAI)
   date: 2024, 2025
 - name: American Medical Informatics Association Annual Symposium (AMIA)
   date: 2024, 2025
