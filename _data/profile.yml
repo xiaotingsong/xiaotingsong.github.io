@@ -6,6 +6,8 @@ positions:
 - logo: /assets/images/badges/UFlogo.png  # Logo is optional
   name: University of Florida.
 
+description: {description}
+
 email: "XTSTARS1998@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: kEPblPsAAAAJ  # This is an example, replace it with your own Google Scholar ID
@@ -44,6 +46,12 @@ education:
   logo: /assets/images/badges/UESTC.png
   position: B.S. in Computer Science
   date: Sep. 2017 - Jul. 2021
+
+experience:
+- name: eBay
+  logo: /assets/images/badges/ebay_logo.png
+  position: Applied Researcher Intern
+  date: May 2025 - Aug 2025
 
 awards:
 - name: <a href="https://aaai.org/conference/aaai/aaai-25/student-scholarhip-volunteer-program/" target="_blank">AAAI Scholarship and Volunteer Award</a>  
