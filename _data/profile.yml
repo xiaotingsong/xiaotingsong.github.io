@@ -45,6 +45,12 @@ education:
   position: B.S. in Computer Science
   date: Sep. 2017 - Jul. 2021
 
+experience:
+- name: eBay
+  logo: /assets/images/badges/eBay_logo.png
+  position: Applied Researcher Intern
+  date: May 2025 - Aug. 2025
+
 awards:
 - name: <a href="https://aaai.org/conference/aaai/aaai-25/student-scholarhip-volunteer-program/" target="_blank">AAAI Scholarship and Volunteer Award</a>  
   date: 2025
@@ -86,7 +92,6 @@ service_pc:
   date: 2023
 - name: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
   date: 2022
-
 
 service_journal:
 - name: ACM Transactions on Intelligent Systems and Technology (TIST)
