@@ -1,5 +1,5 @@
 ---
-title:          "Temporally Detailed Hypergraph Neural ODE for Type 2 Diabetes Progression Modeling"
+title:          "Temporally Detailed Hypergraph Neural ODE for Disease Progression Modeling"
 date:           2026-02-12 00:01:00 +0800
 selected:       true
 pub:            "The 14th International Conference on Learning Representations (ICLR 2026)"
