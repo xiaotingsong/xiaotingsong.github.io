@@ -10,7 +10,7 @@ pub:            "The 14th International Conference on Learning Representations (
 
 abstract: >-
   We propose Temporally Detailed Hypergraph Neural Ordinary Differential Equation (TD-HNODE), which represents disease progression on clinically recognized trajectories as a temporally detailed hypergraph and learns the continuous-time progression dynamics via a neural ODE framework
-cover:          /assets/images/covers/ICLR26.pdf
+cover:          /assets/images/covers/ICLR26.jpg
 authors:
   - <strong>Tingsong Xiao</strong>
   - Yao An Lee  
