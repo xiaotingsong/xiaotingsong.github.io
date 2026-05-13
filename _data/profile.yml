@@ -98,6 +98,7 @@ service_pc:
   date: 2022
 
 service_journal:
+- name: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - name: ACM Transactions on Intelligent Systems and Technology (TIST)
 - name: IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - name: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
