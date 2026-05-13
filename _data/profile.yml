@@ -46,6 +46,10 @@ education:
   date: Sep. 2017 - Jul. 2021
 
 experience:
+- name: Amazon
+  logo: /assets/images/badges/Amazon_logo.png
+  position: Applied Scientist Intern
+  date: May 2026 - Aug. 2026
 - name: eBay
   logo: /assets/images/badges/eBay_logo.png
   position: Applied Researcher Intern
