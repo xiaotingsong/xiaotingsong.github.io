@@ -9,7 +9,7 @@ pub:            "The 39th Annual Conference on Neural Information Processing Sys
 # pub_date:       "2025"
 
 abstract: >-
-  We propose DecoyDB, a large-scale, structure-aware dataset specifically designed for self-supervised graph contrastive learning (GCL) on protein–ligand complexes. DecoyDB consists of high-resolution ground truth complexes and diverse decoy structures with computationally generated binding poses that range from realistic to suboptimal. Each decoy is annotated with a Root Mean Square Deviation (RMSD) from the native pose. We further design a customized GCL framework to pretrain graph neural networks based on DecoyDB and fine-tune the models with labels from PDBbind. Extensive experiments confirm that models pretrained with DecoyDB achieve superior accuracy, sample efficiency, and generalizability.
+  We propose DecoyDB, a large-scale, structure-aware dataset for self-supervised graph contrastive learning on protein–ligand complexes. DecoyDB consists of high-resolution ground truth complexes and diverse decoy structures with RMSD annotations. We design a customized GCL framework to pretrain graph neural networks and demonstrate superior accuracy, sample efficiency, and generalizability.
 cover:          /assets/images/covers/NeurIPS25_DecoyDB.jpg
 authors:
   - Yupu Zhang
