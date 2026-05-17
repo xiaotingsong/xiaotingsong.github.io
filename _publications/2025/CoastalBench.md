@@ -9,7 +9,7 @@ pub:            "The 42nd International Conference on Machine Learning (ICML 202
 # pub_date:       "2025"
 
 abstract: >-
-  We introduce a decade-long, high-resolution (<100m) coastal circulation modeling dataset on a real-world 3D mesh in southwest Florida with around 6 million cells. The dataset contains key oceanography variables (e.g., current velocities, free surface level, temperature, salinity) alongside external atmospheric and river forcings. We evaluated a customized Vision Transformer model that takes initial and boundary conditions and external forcings and predicts ocean variables at varying lead times. The dataset provides an opportunity to benchmark novel deep learning models for high-resolution coastal simulations (e.g., physics-informed machine learning, neural operator learning).
+  We introduce a decade-long, high-resolution (<100m) coastal circulation modeling dataset in southwest Florida with ~6 million cells. The dataset contains key oceanography variables and external forcings. We evaluate a customized Vision Transformer model for predicting ocean variables at varying lead times, providing a benchmark for deep learning models in high-resolution coastal simulations.
 cover:          /assets/images/covers/CoastalBench.jpg
 authors:
   - Zelin Xu
