@@ -21,6 +21,6 @@ authors:
   - Shigang Chen
   - Zhe Jiang
 links:
-  Code: https://github.com/spatialdatasciencegroup/CoastalBench
+  Paper: https://openreview.net/forum?id=h3EEUJaMLu
   Dataset: https://github.com/spatialdatasciencegroup/CoastalBench
 ---
