@@ -1,6 +1,6 @@
 ---
 title:          "XTSFormer: Cross-Temporal-Scale Transformer for Irregular-Time Event Prediction in Clinical Applications"
-date:           2025-02-12 00:01:00 +0800
+date:           2025-12-31 00:01:00 +0800
 selected:       true
 pub:            "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)"
 # pub_pre:        "Submitted to "
