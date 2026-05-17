@@ -1,8 +1,8 @@
 ---
 title:          "DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction"
-date:           2025-12-10 00:01:00 +0800
+date:           2025-11-10 00:01:00 +0800
 selected:       true
-pub:            "Advances in Neural Information Processing Systems 2025 (NeurIPS 2025)"
+pub:            "The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
