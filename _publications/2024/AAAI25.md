@@ -24,6 +24,6 @@ authors:
   - Parisa Rashidi
   - Zhe Jiang
 links:
-  Code: https://github.com/xiaotingsong/XTSFormer
+  Code: https://github.com/spatialdatasciencegroup/XTSFormer
   Paper: https://arxiv.org/abs/2402.02258
 ---
