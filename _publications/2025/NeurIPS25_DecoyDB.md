@@ -20,5 +20,6 @@ authors:
   - Chenglong Li
   - Zhe Jiang
 links:
-  Paper: https://openreview.net/forum?id=xxxxx
+  Paper: https://openreview.net/forum?id=lzLo5bRgQC
+  Dataset: https://huggingface.co/datasets/jiangteam/DecoyDB
 ---
