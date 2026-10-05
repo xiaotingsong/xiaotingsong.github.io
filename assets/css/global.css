@@ -67,7 +67,7 @@ div.lazy {
 
 .profile-body { padding: 2rem; }
 .text-profile-bio { line-height: 1.65; }
-.job-status { color: #246246; font-weight: 700; margin: .25rem 0; }
+.job-status { color: #c62828; font-weight: 700; margin: .25rem 0; }
 .target-roles { color: #586574; font-size: .9rem; margin-bottom: .75rem; }
 .profile-links { display: flex; flex-wrap: wrap; gap: .75rem 1.5rem; align-items: center; }
 .profile-links .btn { font-size: inherit; line-height: inherit; }
