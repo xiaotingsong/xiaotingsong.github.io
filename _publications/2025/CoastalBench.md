@@ -2,6 +2,7 @@
 title:          "CoastalBench: A Decade-Long High-Resolution Dataset to Emulate Complex Coastal Processes"
 date:           2025-07-17 00:01:00 +0800
 selected:       true
+selected_order: 3
 pub:            "The 42nd International Conference on Machine Learning (ICML 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

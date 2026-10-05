@@ -1,0 +1,20 @@
+<section class="card border-0 shadow-sm bg-white my-3" aria-labelledby="service-heading">
+    <div class="card-body p-4">
+        <h2 class="section-title mb-2" id="service-heading">Academic Service</h2>
+        <p class="text-muted mb-3">Reviewer and program committee member for conferences including ICLR, ICML, NeurIPS, AAAI, and KDD, and journals including IEEE TPAMI and TKDE.</p>
+        <div class="row mt-3">
+            <div class="col-md-6">
+                <h3 class="h6">Program Committee</h3>
+                <ul class="pl-3 small">
+                    {% for item in site.data.profile.service_pc %}<li class="mb-2">{{ item.name }} <span class="text-muted">({{ item.date }})</span></li>{% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <h3 class="h6">Journal Reviewer</h3>
+                <ul class="pl-3 small">
+                    {% for item in site.data.profile.service_journal %}<li class="mb-2">{{ item.name }}</li>{% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

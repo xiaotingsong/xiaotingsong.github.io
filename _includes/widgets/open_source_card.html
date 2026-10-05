@@ -1,0 +1,26 @@
+<section class="card border-0 shadow-sm bg-white mt-3" aria-labelledby="open-source-heading">
+    <div class="card-body p-4">
+        <h2 class="section-title" id="open-source-heading">Open Source Contribution</h2>
+        <ul class="list-unstyled mb-0">
+            {% for project in site.data.profile.open_source %}
+            <li class="experience-entry open-source-entry">
+                <a class="open-source-image-link" href="{{ project.url }}" target="_blank" rel="noopener" aria-label="Explore {{ project.name }} on GitHub">
+                    <img class="open-source-image" src="{{ project.image | relative_url }}" alt="{{ project.image_alt }}" width="180" height="120" loading="lazy">
+                </a>
+                <div class="experience-content">
+                    <div class="experience-heading">
+                        <h3 class="h5 mb-0">{{ project.name }}</h3>
+                    </div>
+                    <p class="experience-description mb-0">{{ project.description }}</p>
+                    <div class="open-source-links">
+                        <a href="{{ project.url }}" target="_blank" rel="noopener" aria-label="{{ project.name }} on GitHub"><i class="fab fa-github" aria-hidden="true"></i> GitHub <i class="fas fa-arrow-up-right-from-square small" aria-hidden="true"></i></a>
+                        <a class="open-source-stars" href="{{ project.url }}/stargazers" target="_blank" rel="noopener" aria-label="View {{ project.name }} stars on GitHub">
+                            <img src="https://img.shields.io/github/stars/{{ project.github_repo }}?style=social&amp;label=Stars" alt="{{ project.name }} GitHub stars" height="20" loading="lazy">
+                        </a>
+                    </div>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>

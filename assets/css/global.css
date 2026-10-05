@@ -44,7 +44,6 @@ h1, h2, h3, h4, h5, h6,
 }
 
 img.lazy {
-    background-image: url('images/loading.gif');
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 50px 50px;
@@ -52,7 +51,6 @@ img.lazy {
 }
 
 div.lazy {
-    background-image: url('images/loading.gif');
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: 50px 50px;
@@ -67,3 +65,50 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+.profile-body { padding: 2rem; }
+.text-profile-bio { line-height: 1.65; }
+.job-status { color: #246246; font-weight: 700; margin: .25rem 0; }
+.target-roles { color: #586574; font-size: .9rem; margin-bottom: .75rem; }
+.profile-links { display: flex; flex-wrap: wrap; gap: .75rem 1.5rem; align-items: center; }
+.profile-links .btn { font-size: inherit; line-height: inherit; }
+.profile-link-group { display: inline-flex; align-items: center; gap: 1.5rem; }
+.section-title { font-size: 1.25rem; margin-bottom: 1.25rem; }
+.experience-logo { width: 48px; height: 48px; object-fit: contain; flex-shrink: 0; }
+.experience-entry { display: flex; align-items: flex-start; gap: 1rem; }
+.experience-entry + .experience-entry { margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid #edf0f3; }
+.experience-content { flex: 1; min-width: 0; }
+.experience-heading { display: flex; justify-content: space-between; gap: .5rem 1rem; flex-wrap: wrap; }
+.experience-date { padding-top: .2rem; }
+.experience-description { margin-top: .65rem; font-size: .95rem; line-height: 1.65; }
+.open-source-entry { align-items: center; gap: 1.5rem; }
+.open-source-image-link { display: block; flex: 0 0 180px; }
+.open-source-image { display: block; width: 180px; height: 120px; object-fit: contain; }
+.open-source-links { display: flex; align-items: center; flex-wrap: wrap; gap: .6rem 1rem; margin-top: .75rem; font-size: .95rem; }
+.open-source-stars { display: inline-flex; align-items: center; min-height: 20px; }
+.open-source-stars img { display: block; height: 20px; }
+.education-logo { width: 32px; height: 32px; object-fit: contain; flex-shrink: 0; }
+.education-entry { margin-bottom: 1.25rem; }
+.education-entry:last-child { margin-bottom: 0; }
+.publication-venue { display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 105px; background: #eff4fa; color: #3d5877; font-weight: 700; border-radius: 4px; }
+.publication-venue span { font-size: .8rem; font-weight: 400; margin-top: .25rem; }
+.abstract-links { margin-top: .4rem !important; }
+.abstract-links a + a { margin-left: .4rem; }
+.visitor-globe { display: flex; flex-direction: column; align-items: center; gap: .5rem; padding: 2rem 0 1rem; }
+.visitor-globe-widget { width: 300px; max-width: 100%; min-height: 325px; }
+@media (max-width: 767.98px) {
+    body { padding-top: 4.75rem; }
+    .profile-body { padding: 1.5rem; }
+    h1 { font-size: 2rem; }
+    .experience-logo { width: 36px; height: 40px; }
+    .experience-entry { gap: .75rem; }
+    .experience-heading { flex-direction: column; gap: .2rem; }
+    .open-source-entry { flex-direction: column; align-items: stretch; gap: 1rem; }
+    .open-source-image-link { flex-basis: auto; align-self: flex-start; }
+    .honors-column { margin-top: 1.5rem; }
+    .profile-links .email-text { font-size: .85rem; }
+    .section-title a { display: inline-block; }
+}
+@media (max-width: 374.98px) {
+    .profile-body { padding: 1.1rem; }
+    .profile-links .no-break { white-space: normal; overflow-wrap: anywhere; }
+}

@@ -2,6 +2,7 @@
 title:          "Temporally Detailed Hypergraph Neural ODE for Disease Progression Modeling"
 date:           2026-02-12 00:01:00 +0800
 selected:       true
+selected_order: 1
 pub:            "The 14th International Conference on Learning Representations (ICLR 2026)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -9,11 +10,11 @@ pub:            "The 14th International Conference on Learning Representations (
 # pub_date:       "2025"
 
 abstract: >-
-  We propose Temporally Detailed Hypergraph Neural Ordinary Differential Equation (TD-HNODE), which represents disease progression on clinically recognized trajectories as a temporally detailed hypergraph and learns the continuous-time progression dynamics via a neural ODE framework
+  We propose Temporally Detailed Hypergraph Neural Ordinary Differential Equation (TD-HNODE), which represents disease progression on clinically recognized trajectories as a temporally detailed hypergraph and learns the continuous-time progression dynamics via a neural ODE framework.
 cover:          /assets/images/covers/ICLR26.jpg
 authors:
   - <strong>Tingsong Xiao</strong>
-  - Yao An Lee  
+  - Yao An Lee
   - Zelin Xu
   - Yupu Zhang
   - Zibo Liu
@@ -22,6 +23,6 @@ authors:
   - Jingchuan Guo
   - Zhe Jiang
 links:
-  Code: https://openreview.net/forum?id=3XRAkZtMPK
   Paper: https://openreview.net/forum?id=3XRAkZtMPK
+  Code: https://openreview.net/forum?id=3XRAkZtMPK
 ---

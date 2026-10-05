@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ page.title }} - {{ site.data.profile.navbar_name }}</title>
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description | escape }}">
     <link rel="icon" href="/assets/images/photos/XTS.jpeg" type="image/jpeg">
     <!-- Stylesheets -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" integrity="sha512-P5MgMn1jBN01asBgU0z60Qk4QxiXo86+wlFahKrsQf37c9cro517WzVSPPV1tDKzhku2iJ2FVgL67wG03SGnNA==" crossorigin="anonymous" />
@@ -19,14 +19,15 @@
 </head>
 <body class="bg-light" {{ page.body_attr }}>
     {% include navbar.html %}
-    <div class="container">
+    <main class="container" id="main-content">
         {{content}}
-    <div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 400px;">
-    <div style="width: 300px; height: 300px; overflow: hidden;">
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mQDJH4vYvUuiXt93s1dINTfOk3PLvleO5Y3CFAQ-O_g"></script>
-    </div>
-</div>
-
+        <div class="visitor-globe" role="region" aria-label="Visitor map">
+            <div class="visitor-globe-widget">
+                <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=Ll0XRLlD7hCpBWw_GLXu7m4VRD-7R2VngObhMeWBrY0"></script>
+            </div>
+            <a class="small" href="https://mapmyvisitors.com/web/1c8nr" target="_blank" rel="noopener">Visitor statistics</a>
+        </div>
+    </main>
     {% include footer.html %}
 
     <!-- Scripts -->

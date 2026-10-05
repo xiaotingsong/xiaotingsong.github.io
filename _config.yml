@@ -19,7 +19,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 
 title: "Tingsong Xiao: Homepage"
-description: "PhD Candidate in Computer Science, University of Florida. Specializing in AI for Health, data mining, and interpretable deep learning."
+description: "Tingsong Xiao is a Computer Science Ph.D. candidate at the University of Florida working on LLM post-training, agentic AI, and machine learning for health. Open to full-time roles in 2027."
+url: "https://xiaotingsong.github.io"
 
 favicon: /assets/images/photos/XTS.jpeg
 

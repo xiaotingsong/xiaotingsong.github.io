@@ -1,0 +1,28 @@
+<section class="card border-0 shadow-sm bg-white mt-3" aria-label="Education and honors">
+    <div class="card-body p-4">
+        <div class="row">
+            <div class="col-md-7">
+                <h2 class="section-title">Education</h2>
+                {% for item in site.data.profile.education %}
+                <div class="d-flex education-entry">
+                    <img src="{{ item.logo | relative_url }}" alt="" class="education-logo mr-3">
+                    <div>
+                        <h3 class="h6 mb-1">{{ item.name }}</h3>
+                        <div>{{ item.position }}</div>
+                        {% if item.dept %}<div class="small text-muted">{{ item.dept }}</div>{% endif %}
+                        <div class="small text-muted">{{ item.date }}</div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="col-md-5 honors-column">
+                <h2 class="section-title">Honors &amp; Awards</h2>
+                <ul class="list-unstyled mb-0">
+                    {% for item in site.data.profile.awards %}
+                    <li class="mb-3"><div>{{ item.name }}</div><div class="small text-muted">{{ item.date }}</div></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

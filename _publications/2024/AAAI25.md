@@ -1,7 +1,8 @@
 ---
 title:          "XTSFormer: Cross-Temporal-Scale Transformer for Irregular-Time Event Prediction in Clinical Applications"
-date:           2025-12-31 00:01:00 +0800
+date:           2025-04-11 00:01:00 +0800
 selected:       true
+selected_order: 2
 pub:            "The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -24,6 +25,7 @@ authors:
   - Parisa Rashidi
   - Zhe Jiang
 links:
+  Paper: https://ojs.aaai.org/index.php/AAAI/article/view/35073
   Code: https://github.com/spatialdatasciencegroup/XTSFormer
-  Paper: https://arxiv.org/abs/2402.02258
+  Extended Version: https://arxiv.org/abs/2402.02258
 ---

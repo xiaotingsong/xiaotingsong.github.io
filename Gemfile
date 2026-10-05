@@ -30,3 +30,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
+
+# Explicit standard-library dependencies for local previews on modern Ruby.
+gem "base64"
+gem "bigdecimal"

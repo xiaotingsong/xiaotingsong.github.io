@@ -2,6 +2,7 @@
 title:          "Spatial Knowledge-Infused Hierarchical Learning: An Application in Flood Mapping on Earth Imagery"
 date:           2023-08-12 00:01:00 +0800
 selected:       true
+selected_order: 5
 pub:            "The 31st ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL 2023)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

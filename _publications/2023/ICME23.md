@@ -1,7 +1,7 @@
 ---
 title:          "M-GCN: Multi-scale Graph Convolutional Network for 3D Point Cloud Classification"
 date:           2023-12-12 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE International Conference on Multimedia and Expo (ICME 2023)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

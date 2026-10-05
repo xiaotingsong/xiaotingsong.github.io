@@ -2,6 +2,7 @@
 title:          "Dual-Graph Learning Convolutional Networks for Interpretable Alzheimer’s Disease Diagnosis"
 date:           2022-01-05 00:01:00 +0800
 selected:       true
+selected_order: 6
 pub:            "The 25th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2022)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -13,7 +14,7 @@ cover:          /assets/images/covers/MICCAI22.jpg
 authors:
 - <strong>Tingsong Xiao</strong>
 - Lu Zeng
-- Xaoshuang Shi
+- Xiaoshuang Shi
 - Xiaofeng Zhu
 - Guorong Wu 
 links:

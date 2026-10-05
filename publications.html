@@ -8,6 +8,8 @@ body_attr: >-
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
+<h1 class="h2 mb-2">Publications</h1>
+<p class="text-muted">Research in temporal and graph learning, AI for health, and spatiotemporal modeling.</p>
 <div class="row">
     <div class="col-12 col-lg-10">
         {% for year in pubs_by_year %}
