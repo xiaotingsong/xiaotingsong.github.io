@@ -93,8 +93,8 @@ div.lazy {
 .publication-venue span { font-size: .8rem; font-weight: 400; margin-top: .25rem; }
 .abstract-links { margin-top: .4rem !important; }
 .abstract-links a + a { margin-left: .4rem; }
-.visitor-globe { display: flex; flex-direction: column; align-items: center; gap: .5rem; padding: 2rem 0 1rem; }
-.visitor-globe-widget { width: 300px; max-width: 100%; min-height: 325px; }
+.visitor-map { display: flex; flex-direction: column; align-items: center; gap: .5rem; padding: 2rem 0 1rem; }
+.visitor-map-widget { width: 300px; max-width: 100%; min-height: 192px; }
 @media (max-width: 767.98px) {
     body { padding-top: 4.75rem; }
     .profile-body { padding: 1.5rem; }
